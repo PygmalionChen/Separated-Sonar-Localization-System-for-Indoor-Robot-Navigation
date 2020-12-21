@@ -30,7 +30,21 @@ Our indoor localization system has three different hardware components: the sepa
 
 ## Experiments:
 
-### The PointCloudMap:
+### Lab Env:
+
+<img src="./figures/Environment.png" width = "600" height = "500" align=center />
+
+### PointCloudMap:
+
+<img src="./figures/PointCloudMap.png" width = "600" height = "500" align=center />
+
+### Absolute Trajectory Error Array:
+
+<img src="./figures/ate.jpg" width = "600" height = "500" align=center />
+
+
+
+
 
 
 
