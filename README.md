@@ -24,11 +24,12 @@ To validate the proposed localization method and precisely analyze the localizat
 
 ## Hardware System:
 
-Our indoor localization system has three different hardware components: the separated sonar receiver, the separated sonar transmitter and the control board of the separated sonar receivers.
+Our indoor localization system has three different hardware components: the separated sonar receiver, the separated sonar transmitter and the control board of the separated sonar receivers. (We use the STM32. The code was implemented with C.)
 
 <img src="./figures/hardware.jpg" width = "600" height = "500" align=center />
 
 ## Experiments:
+We use the NDT to get the PointCloudMap. For real world experiments, the code was implemented with C++. For the simulation experiments, the lua code was implemented within the .ttt files.
 
 ### Lab Env:
 
