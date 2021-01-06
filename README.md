@@ -18,6 +18,9 @@ This work addresses the task of mobile robot localization for indoor navigation.
 
 ## Simulation Platform：
 
+### User Guide:
+__The .ttt file includes the whole simulation module and the lua code. You can open it with the VREP simulator.__
+
 To validate the proposed localization method and precisely analyze the localization errors, we build the whole localization system in the Virtual Robot Experimentation Platform (V-REP) environment.    (https://www.coppeliarobotics.com/)
 
 <img src="./figures/LocalizationSysText.png" width = "600" height = "500" align=center />
